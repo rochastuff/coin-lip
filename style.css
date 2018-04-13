@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: slategray;
+}
+
+input[type=text] {
+    width: 300px;
+    padding: 12px 20px;
+    margin: 5px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type=submit] {
+    width: auto;
+    color: white;
+    background-color:steelblue;
+    padding: 14px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+}
